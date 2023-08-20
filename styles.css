@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* text-align: center; */
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid coral;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+td,
+tr,
+th {
+  border: 1px solid black;
+}
+th {
+  padding: 5px 10px;
+}
